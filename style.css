@@ -1,0 +1,60 @@
+
+
+
+
+
+
+.bnr
+{
+    background: url("Images/ban.png") no-repeat;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+.hh{
+    margin-left: 300px;
+    color: white;
+     margin-top:-10px ; 
+}
+.icn{
+    margin-bottom:300px ;
+    margin-left: 40px;
+}
+.head{
+    margin-left: 650px;
+}
+.p {
+    padding-top: 5;
+    padding-bottom: 3;
+}
+/* section 3 */
+.wel{
+    text-align: center;
+}
+.cl1{color: blueviolet;}
+.cl2{color: crimson;}
+.cl3{color: cadetblue;}
+.cl4{color:blue;}
+
+.mll{ text-align: center;}
+.sd{
+    display: flex;
+}
+
+.h1t{
+    color: chocolate;
+   
+}
+.pa{
+    color: black;
+    background-color: blueviolet;
+}
+.cst{
+    background-color: darkgreen;
+}
+.las{
+    background-color:blueviolet;
+}
